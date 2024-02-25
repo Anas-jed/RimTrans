@@ -1,0 +1,21 @@
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="cbt2l0repa" d="M0 0h8.388v8.753H0z"/>
+        <path id="8bkuml60gc" d="M0 0h12v4.087H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <rect stroke="#333" stroke-width="2" x="1" y="1" width="28" height="28" rx="13"/>
+        <g transform="translate(10.812 8)">
+            <mask id="s8kb10fwsb" fill="#fff">
+                <use xlink:href="#cbt2l0repa"/>
+            </mask>
+            <path d="M4.186 6.668c1.21.004 2.204-1.003 2.215-2.244a2.282 2.282 0 0 0-2.299-2.328C2.98 2.1 2.015 3.14 2 4.364c-.016 1.258.974 2.3 2.187 2.304m.016 2.085C1.854 8.735-.02 6.768 0 4.344.02 1.947 1.914-.006 4.213 0c2.341.006 4.195 1.988 4.174 4.463-.02 2.37-1.91 4.307-4.185 4.29" fill="#231F20" mask="url(#s8kb10fwsb)"/>
+        </g>
+        <g transform="translate(9 17.913)">
+            <mask id="jqxvwhwz9d" fill="#fff">
+                <use xlink:href="#8bkuml60gc"/>
+            </mask>
+            <path d="M6.036 0c.761.032 1.534 0 2.29.11C9.8.322 10.962 1.12 11.817 2.391c.32.476.203 1.106-.231 1.429a.97.97 0 0 1-1.4-.22c-.751-1.062-1.757-1.535-3.012-1.5-.854.022-1.709 0-2.563.005-1.144.007-2.062.49-2.735 1.458-.268.385-.601.6-1.068.498a1.026 1.026 0 0 1-.634-1.578C1.03 1.158 2.219.33 3.737.109 4.492-.001 5.265.032 6.036 0" fill="#231F20" mask="url(#jqxvwhwz9d)"/>
+        </g>
+    </g>
+</svg>

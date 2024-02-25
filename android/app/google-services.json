@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094744037053",
+    "project_id": "rimtrans-6d5b7",
+    "storage_bucket": "rimtrans-6d5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094744037053:android:b1365ba9c9865fe209c9d4",
+        "android_client_info": {
+          "package_name": "com.rimtrans.rimtrans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATDJQHLTfX_sZWLVVk72EZ3QLj9tthuWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
